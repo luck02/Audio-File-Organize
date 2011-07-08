@@ -1,0 +1,11 @@
+/home/gary/workspace/audioFileOrganizer/bin:/home/gary/eclipse/configuration/org.eclipse.osgi/bundles/350/1/.cp/lib/scala-library.jar:/home/gary/eclipse/configuration/org.eclipse.osgi/bundles/350/1/.cp/lib/scala-dbc.jar:/home/gary/eclipse/configuration/org.eclipse.osgi/bundles/350/1/.cp/lib/scala-swing.jar:/usr/java/jre1.6.0_25/lib/resources.jar:/usr/java/jre1.6.0_25/lib/rt.jar:/usr/java/jre1.6.0_25/lib/jsse.jar:/usr/java/jre1.6.0_25/lib/jce.jar:/usr/java/jre1.6.0_25/lib/charsets.jar:/usr/java/jre1.6.0_25/lib/ext/sunjce_provider.jar:/usr/java/jre1.6.0_25/lib/ext/localedata.jar:/usr/java/jre1.6.0_25/lib/ext/sunpkcs11.jar:/usr/java/jre1.6.0_25/lib/ext/dnsns.jar:/home/gary/workspace/audioFileOrganizer/libs/JID3.jar
+-------
+/home/gary/workspace/audioFileOrganizer/src/audio/Main.scala -> /home/gary/workspace/audioFileOrganizer/src/audio/Main.scala
+-------
+/home/gary/workspace/audioFileOrganizer/src/audio/Main.scala -> /home/gary/workspace/audioFileOrganizer/bin/AudioFile$.class
+/home/gary/workspace/audioFileOrganizer/src/audio/Main.scala -> /home/gary/workspace/audioFileOrganizer/bin/audio/main$$anonfun$main$1.class
+/home/gary/workspace/audioFileOrganizer/src/audio/Main.scala -> /home/gary/workspace/audioFileOrganizer/bin/audio/main$.class
+/home/gary/workspace/audioFileOrganizer/src/audio/Main.scala -> /home/gary/workspace/audioFileOrganizer/bin/audio/AudioDuplicateFinder.class
+/home/gary/workspace/audioFileOrganizer/src/audio/Main.scala -> /home/gary/workspace/audioFileOrganizer/bin/AudioFile.class
+/home/gary/workspace/audioFileOrganizer/src/audio/Main.scala -> /home/gary/workspace/audioFileOrganizer/bin/audio/main.class
+/home/gary/workspace/audioFileOrganizer/src/audio/Main.scala -> /home/gary/workspace/audioFileOrganizer/bin/audio/AudioDuplicateFinder$$anonfun$recurseGetFiles$1.class
